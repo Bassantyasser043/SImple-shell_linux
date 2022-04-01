@@ -1,0 +1,3 @@
+/home/bassant/CLionProjects/Simple shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bassant/CLionProjects/Simple shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bassant/CLionProjects/Simple shell/cmake-build-debug/CMakeFiles/Simple_shell.dir
