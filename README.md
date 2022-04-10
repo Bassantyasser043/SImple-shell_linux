@@ -1,5 +1,5 @@
 <h1 align="center">Simple Shell linux</h1>
-It is a program that implement the following commands:
+--It is a program that implement the following commands:
 
 1.The internal shell command "exit" which terminates the shell
 
@@ -17,7 +17,7 @@ It is a program that implement the following commands:
 
    <p> <b> 5. Shell builtin commands</p>
 
- <p> <b> Commands: cd & echo </p>
+Commands: cd & echo
    Details: for the case of:
         cd: It covers all the following cases (assume no spaces in path):
             cd
