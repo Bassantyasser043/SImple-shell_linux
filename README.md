@@ -7,7 +7,7 @@
 
     Example: ls, cd, …etc
 
- <p> <b> 3. A command with arguments
+ <p> <b> 3. A command with arguments</p>
 
     Example: ls –l
 
