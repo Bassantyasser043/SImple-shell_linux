@@ -1,5 +1,5 @@
 <h1 align="center">Simple Shell linux</h1>
-<p>It is a program that implement the following commands:
+It is a program that implement the following commands:
 
 1.The internal shell command "exit" which terminates the shell
 
@@ -18,7 +18,7 @@
    <p> <b> 5. Shell builtin commands</p>
 
  <p> <b> Commands: cd & echo </p>
-    Details: for the case of:
+   Details: for the case of:
         cd: It covers all the following cases (assume no spaces in path):
             cd
             cd ~
@@ -30,7 +30,7 @@
             export x=5
             echo "Hello $x" => Hello 5
 
-6.Expression evaluation
+    <p><b> 6.Expression evaluation </p>
 
     Commands: export
 
@@ -39,4 +39,3 @@
         ls $x => Will perform ls -l
         export y="Hello world"
         echo "$y" => Hello world
-</p>
