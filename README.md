@@ -33,5 +33,9 @@
         * ls $x => Will perform ls -l
         * export y="Hello world"
         * echo "$y" => Hello world
-        
-        
+  ## How to run
+  - Download the code and run the following command in the terminal
+     make
+    ./shell
+  ## Short Demo
+https://youtu.be/UPJiZ6vlJTA
