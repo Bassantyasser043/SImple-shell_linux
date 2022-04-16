@@ -27,8 +27,8 @@ It supports the following commands:
             * echo "Hello $x" => Hello 5
             
     6. Expression evaluation
-      * **Commands**: export
-    * **Example**:
+   * **Commands**: export
+     * **Example**:
         * export x=-l
         * ls $x => Will perform ls -l
         * export y="Hello world"
