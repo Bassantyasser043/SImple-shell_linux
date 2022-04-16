@@ -1,5 +1,5 @@
-# Simple_shell_linux
-It supports the following commands:
+<span style="color: dark blue"># Simple_shell_linux</span>
+<b>It supports the following commands:</b>
 
    1. The internal shell command "exit" which terminates the shell
 
